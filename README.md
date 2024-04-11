@@ -1,4 +1,3 @@
-Alon Hillel-Tuch
 ----------------
 A simple Google Apps Script repo to handle communication between Slack and Google Sheets/Forms.
 ----------------
@@ -14,3 +13,5 @@ This is highly tailored code for a specific need. However, it is designed to be 
 You must create multiple Slack apps assigned with the scopes for your use case. For the code to function as intended you will need two time-based Triggers in Apps Script. One to call 'dailycheck' every 24-hours, and another to call 'timedCheckAndSendToSlack' at your desired frequency. 
 
 It is highly recommended you store any tokens and private variables in a vault or other Secrets solution and not directly in code. 
+
+- Alon
