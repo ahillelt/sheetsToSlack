@@ -14,4 +14,5 @@ You must create multiple Slack apps assigned with the scopes for your use case. 
 
 It is highly recommended you store any tokens and private variables in a vault or other Secrets solution and not directly in code. 
 
-- Alon
+===<br>
+Alon
