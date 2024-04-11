@@ -1,5 +1,4 @@
 Alon Hillel-Tuch
-April 2024
 ----------------
 A simple Google Apps Script repo to handle communication between Slack and Google Sheets/Forms.
 ----------------
